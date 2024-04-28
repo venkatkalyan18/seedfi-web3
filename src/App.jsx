@@ -12,9 +12,6 @@ const App = () => {
       <MainContent/>
       </div>
       <Camapigns/>
-
-
-
     </div>
   
   )
